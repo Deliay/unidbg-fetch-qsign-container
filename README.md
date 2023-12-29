@@ -28,7 +28,7 @@ docker run -e VERSION=txlib中支持的版本 unidbg-fetch-qsign:latest
 ```sh
 docker pull registry.cn-beijing.aliyuncs.com/zero-tools/unidbg-fetch-qsign:latest
 
-# 支持8.9.63, 8.9.68, 8.9.70
+# 支持3.5.1  3.5.2  8.9.58  8.9.63  8.9.68  8.9.70  8.9.71  8.9.73  8.9.80  8.9.83  8.9.85  8.9.88  8.9.90  8.9.93  8.9.96
 docker run registry.cn-beijing.aliyuncs.com/zero-tools/unidbg-fetch-qsign:latest
 ```
 
