@@ -36,6 +36,6 @@ docker run registry.cn-beijing.aliyuncs.com/zero-tools/unidbg-fetch-qsign:latest
 
 | 参数 | 默认值 |
 | - | - |
-| VERSION | 8.9.63 |
+| VERSION | 8.9.90 |
 | ADDRESS | 0.0.0.0 |
 | PORT | 8080 |
